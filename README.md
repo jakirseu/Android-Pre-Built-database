@@ -1,4 +1,4 @@
-# Use Android Pre Built database 
+# Working with Android Pre Built Database 
 ### Access database from assets folder.
 
 In this simple Android project, i have shown how to access database from android assets folder.
